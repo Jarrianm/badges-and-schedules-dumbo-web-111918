@@ -27,3 +27,4 @@ end
   assign_rooms(array).each do |iden|
     puts iden
 end
+end
