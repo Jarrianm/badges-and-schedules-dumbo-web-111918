@@ -10,7 +10,8 @@ end
 return next_array
 end
 
-def assign_rooms()
+def assign_rooms
 end
 
 def printer
+end
